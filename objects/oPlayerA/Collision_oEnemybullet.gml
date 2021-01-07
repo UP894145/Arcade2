@@ -1,0 +1,1 @@
+audio_play_sound(aPlayerTakesDamage, 0, false)

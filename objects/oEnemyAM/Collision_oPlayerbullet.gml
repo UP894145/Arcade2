@@ -1,0 +1,1 @@
+audio_play_sound(aEnemyTakesDamage, 0, false)
